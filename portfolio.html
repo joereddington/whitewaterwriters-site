@@ -1,0 +1,21 @@
+---
+layout: default
+---
+		<header class="primary-header">
+			<h1>Portfolio</h1>
+		</header>
+		<main><ul class="covers-container">
+    {% for book in site.data.allbooksever %}
+  <li class="cover-container">
+        <a href="{{ book.title | datapage_url }}">
+          <img src="/images/covers/{{book.slug}}.png" class="cover" alt="Cover of ISBN {{book.title}}"/>
+          <p>
+            <small>{{book.date }}</small>
+            <br/>
+            <strong>{{book.title }}</strong>
+          </p>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</main>

@@ -1,3 +1,68 @@
 ---
 layout: default
 ---
+<header class="portfolio-header">
+  <h1 class="secondary">• Coming soon •</h1>
+</header>
+
+<main class="portfolio-page">
+  <figure>
+    <img class="cover--large" src="/images/covers/{{page.slug}}.png" alt="Cover of camp {{page.slug}} {{page.title}}"/>
+  </figure>
+  <section>
+    <p class="metadata">
+      {{page.series}}
+      {{page.series_number}}
+    </p>
+    <h1>{{page.title}}</h1>
+    <p>{{page.subtitle}}</p>
+    <h2>{{page.author}}</h2>
+    <p>{{page.blurb}}</p>
+
+    {% if page.reviews.size > 0 %}
+      <hr/>
+      <p><span class="massive">“</span>{{page.reviews}}</p>
+    {% endif %}
+
+    <ul class="metadata">
+      <li>
+      </li>
+      {% if page.pub_date.size > 0 %}
+        <li>
+          <span>Published</span>
+          {{page.pub_date | date: "%d %b %Y"}}
+        </li>
+      {% endif %}
+
+      {% if page.gbp_price%}
+        <li>
+          <span>Price</span>
+          ${{ page.usd_price }} / £{{ page.gbp_price }}
+        </li>
+      {% endif %}
+
+      {% if page.page_count.size > 0 %}
+        <li>
+          <span>Pages</span>
+          {{page.page_count}}
+        </li>
+      {% endif %}
+
+      {% if page.format.size > 0 %}
+      <li>
+        <span>Format</span>
+        {{ page.format }}
+      </li>
+      {% endif %}
+    </ul>
+
+    <p class="metadata">{{page.subject}}</p>
+
+    <h3>Buy {{page.title}}</h3>
+    <ul class="shops">
+      <li>
+        <a class="bookstore" rel="noreferrer" target="_blank" href="{{ page.wordery_url }}">Wordery</a>
+      </li>
+    </ul>
+  </section>
+</main>
