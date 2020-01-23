@@ -33,7 +33,7 @@ module Jekyll
     safe true
 
     def generate(site)
-      site.data["processed_books"].each do |page_data|
+      site.data["allbooksever"].each do |page_data|
         site.pages << DataPage.new(page_data, site)
       end
     end
