@@ -94,6 +94,3 @@ DEPENDENCIES
   nokogiri
   rspec
   sanitize
-
-BUNDLED WITH
-   1.16.6

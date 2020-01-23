@@ -2,6 +2,7 @@ _site/
 .sass-cache/
 # images/covers/
 .jekyll-metadata
+*.swp
 # *.xml
 # *.json
 *.code-workspace
