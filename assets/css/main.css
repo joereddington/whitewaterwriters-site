@@ -10,20 +10,27 @@ body {
 }
 
 header {
-  padding: 50px;
+  padding: 30px;
   text-align: center;
   text-transform: uppercase;
-  background-color: #03a9f4;
+  background-color: #284e9b;
+  color: #1ea3cc;
+  color: #FFFFFF;
 }
 
 .primary-header {
-  background-image: url(/images/banner.jpg);
-  background-size: 100%;
+  background-position:left,right;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
 }
 
 .secondary-header {
-  background-image: url(/images/flower3.jpg);
-  background-size: 100%;
+  background-image: url(../../images/logo.png);
+  background-position:center;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  height: 100px;
+  background-color: #ffffff;
 }
 
 section {
@@ -60,7 +67,6 @@ aside {
 
 /* Typography */
 h1 {
-  background-color: white;
   opacity: 0.95;
   font-size: 1em;
 }
@@ -70,7 +76,7 @@ h1 {
     letter-spacing: 10px;
     width: 50%;
     margin: 0 auto;
-    font-size: 2em;
+    font-size: 1em;
   }
 }
 
@@ -145,12 +151,14 @@ li {
 
 .nav-item {
   font-size: 0.6em;
+  color: #1ea3cc;
 }
 
 @media (min-width: 1110px) {
   .nav-item {
     padding: 0 30px;
     font-size: 22px;
+  color: #1ea3cc;
   }
 
   .nav-item-container {
