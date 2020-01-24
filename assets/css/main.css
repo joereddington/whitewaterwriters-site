@@ -102,6 +102,9 @@ p {
   font-family: "Amiri", Georgia, serif;
   font-size: 0.75em;
   line-height: 34px;
+  margin: 0 auto;
+  max-width: 1250px;
+  padding: 0 20px;
 }
 
 /* Links */
