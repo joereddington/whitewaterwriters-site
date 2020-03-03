@@ -3,3 +3,5 @@ url: http://equalitytime.github.io
 baseurl: /whitewaterwriters-site
 
 page_gen-dirs: true
+kramdown:
+ parse_block_html: true

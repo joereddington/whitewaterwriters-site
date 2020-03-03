@@ -1,0 +1,110 @@
+---
+layout: default
+---
+<header class="portfolio-header">
+  <h1>FAQ</h1>
+</header>
+
+
+# FOR TEACHERS
+**How much involvement do the project leaders have?**
+
+The aim of White Water Writers is that every participating young person will become a published author and hold in their own hands a book that they have written. In a group of up to ten young people, they devise the storyline, write the story, proofread and publish it entirely by themselves. Although the workshops are facilitated by university student volunteers, the entire content and writing process comes from the participants. Indeed, during the first day of a White Water Writers camp, participants often do not believe that they really are going to publish a book and that it really will be entirely their own work.
+
+
+**What ages are the camps for and how do they work?**
+
+ Camps involve up to ten participants typically between 11-18 years, usually comprising young people of a similar age in each group. (Please note – we do also work with some Year 5 & 6 students whose teachers believe they are able to commit to the writing process – please contact us for more information). The group engages in a focussed set of structured tasks across the 5 school days. Participants identify characters, and plan the storyline and chapters on day 1. They then draft the content on days 2 and 3, and on days 4 and 5 proofread, refine and complete the work. The software scaffolds the collaborative writing process and actively involves all participants at every stage, the workload dynamically adjusts so that the stronger writers are stretched just as much as their peers. This plan fits well with the school week (9am-3pm, Monday through to Friday). Books are usually available for purchase Friday evening or Saturday morning.
+
+
+**What's the process your volunteers go though?**
+
+ Typically, the volunteers take part as a university placement, subject to appropriate selection processes and security checks. Training student volunteers involves both written material and a practical element. Every volunteer is given a manual and training guide and receives face to face tuition about how the camps are run and how to avoid potential problems. Each volunteer then observes at least one camp before facilitating one. In their first camp, volunteers start in an assistant role, in the second they are given the opportunity to take on a leadership role.
+
+**Can the project take place one day a week? Or for an hour a week over the year?**
+
+Unfortunately not. The project is very specifically designed and works well precisely because it gains momentum and is very concentrated.
+
+
+**Do we receive copies of the books?**
+
+Yes. The school receives around 30 copies of the books (depending on the agreement made in advance) including copies for the writers and parents. Many of our previously published books have taken pride of place in school libraries, receptions, and of course, are popular to display on Open Days
+
+
+**How do you deal with inappropriate content?**
+
+The writers are treated professionally, and they tend to behave professionally. We trust them. 
+
+**How much does it cost?**
+
+This is a surprisingly difficult question to answer, so let’s give you all the detail we can. It costs us about £1,400 to run a camp for a group of 10 in terms of staff support and other costs. It costs considerably more if we are putting staff in hotels for long distances. It costs slightly less if we are running more than one group at a school at once (we now only take bookings of 20 students or more unless there are special circumstances like “We are a PRU and only have 11 students”). That’s the standard amount. However, we’ve also been very fortunate to be granted funding by various bodies depending on the area of the country you are in.  We also retain some funds to work with, for example children in hospices.
+
+If we can train up a member of staff while we are at your school, then that changes the context. If you have a member of staff that can run that camp, then that massively reduces our costs and we can do a considerable discount. It's worth reading [this blog post](http://equalitytime.co.uk/6417/2020/03/02/analysis-of-white-water-writers-camp-costs/) for more information about costs
+
+
+# FOR PARENTS
+
+
+**Will the book really be written only by the participants?**
+
+ Although the workshops are facilitated by university student volunteers, the books are entirely the result of the participants’ own endeavours. Adults guide the young people, help them to structure ideas, and use the software. However, a guiding principle of the programme is that adults do not offer their opinions on any element of the plot or character development; they simply help young people to discuss their options. This radically different working method ensures the young people have responsibility and control over the book.
+
+
+**Will my child struggle in other areas of their education if they are missing lessons for a week?**
+
+That’s a very sensible concern. Of course, in the short term there will be some catching up to do for various other lessons. In the longer term we believe that the benefits of working in a smaller group with a disciplined target and a much greater staff-student ratio, teaches and develops a range of academic and social skills that can only be of benefit in the long term. In the past we’ve found that the students develop as fast as the narrative does – and not just in terms of their creative skills.
+
+**Where does the money go for the sale of the books?**
+
+To the writers. One of the forms you’ll be asked to sign as a parent (depending on the age of the child) is a copyright form, which allows us to publish the book (and sell on Amazon) in exchange for equally sharing royalties amongst the writers. When a book sells reasonably well via Amazon, we will send out a cheque and the royalties are split. The largest cheque we’ve written so far was for about £7.54. Although this is a small amount, any author can tell you that their first royalty cheque is a magical thing to behold.
+
+**How is it decided which young people should be involved in the project?**
+
+This entirely depends on the school or group we are working with – we do not choose ourselves. Some schools ask for volunteers, some select the ‘most creative’, some run writing competitions, some schools give us top 5 students in two separate years. Some are students who have never really been stretched before, or it could be a group of young people who don’t suit the traditional educational model and would like to try something a bit different. It all depends, but all of them have benefited.
+
+# FOR WRITERS
+
+
+**What if I don’t know anyone else on the programme?**
+
+Don’t worry! Often people do not know many (or any!) people on the programme. The programme is very collaborative and you will work with all the members of your group over the course of the week. A great thing about participating in the project is that you can get to know new people and make new friends.
+
+**Who will be in charge?**
+
+The programme will be run by volunteers from a local university. They have been trained on how to help you to structure your ideas and how to use the software we have developed. You can also take the chance to ask them about what studying at university is like! The volunteers will help you to come up with ideas, to structure them and to help you complete the book. However, they are not allowed to do any writing or give you ideas. The book will be all your own work.
+
+
+**Is it difficult?**
+
+Yes. You'll work harder than you thought you could. It will also be worth it. The programme is set up to help to support you to come up with ideas and to plan your story. It can be challenging to keep motivated and keep writing, but your team and student facilitators will be there to help you. All of our previous participants have found the programme challenging but very enjoyable!
+
+
+**What if I am not very good at English?**
+
+You will be soon. 
+
+
+**Will we all just write our own chapters?**
+
+ No. The process involves a lot of teamwork, so you are in charge of your character, not of a chapter. Different writers will plan each section and then write it up. If you get stuck on one part you can ask another writer to take over and write another section. This makes sure that the story makes sense and that there are not lots of different writing styles in each chapter, which could be confusing for the reader.
+
+
+**Will I miss lessons?**
+
+Yes. To take part in the programme you will not attend lessons at all during the week. This helps you to keep focused on the book. The programme will be scheduled on a week where you will not miss anything vital and your teachers can help you to catch up afterwards. Although you will miss lessons you will be learning lots of new skills. Also, most of our participants realise how well they can do when they put the effort in and feel more positive about how well they can do in school in the future.
+
+
+**Is there homework?**
+
+No. Participants in the programme only write during the school day. You need to relax in the evening to make sure that you have enough energy to finish the week! Also, we do not want one person to go away and make changes to the story without other people’s agreement.
+
+**Will I make money from the book?**
+
+ You might. If the book sells well then we will split any money made between all the writers of the book. However, you are not likely to become a millionaire! The largest cheque we have written so far was for £7.54 but for the authors this was a great achievement!
+
+
+**I want to take part in White Water Writers but my school is not offering it at the moment. What shall I do?**
+
+You can direct your teacher to our website and tell them about us. If they contact us then we will be happy to discuss possibilities of working with your school.
+
+
