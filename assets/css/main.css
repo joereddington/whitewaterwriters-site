@@ -125,8 +125,6 @@ p {
 
 /* Lists */
 ul {
-  display: flex;
-  flex-flow: row wrap;
 }
 
 li {
