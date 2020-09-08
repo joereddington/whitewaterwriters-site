@@ -1,6 +1,6 @@
 title: White Water Writers
 url: http://equalitytime.github.io
-baseurl: /whitewaterwriters-site
+baseurl: 
 
 page_gen-dirs: true
 kramdown:
